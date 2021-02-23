@@ -22,6 +22,8 @@ The first version of this was called T2W (The Thrust Weapon, don't ask why) and 
 
 Loki is my latest developent of this journey, and is the design I hope to iterate on over at least the next 2 years. I will be developing it in parallel with my course at university and will deploy updates and provide active support to anyone who wishes to use the board. 
 
+![](Photos/Loki.V2.3Dview.PNG)
+
 # Board features:
 Firstly, I cannot be ignored that anyone who has previously looked at different option for adding data telemetry and monitoring of systems has more than likely come across the WeChook racing fellas who developed a very realiable system called the Echook Nano which is arguably the most widely used kit that fulfills this purpose. It offers pretty much the exact same features as LOKI, but having been in development for many years now it does offer a more tried and relaible system. The Echook Nano documentaion (https://docs.echook.uk/), has offered me with plenty of wisdom and I have also spoken to the very active developers to confer with them over design choices for LOKI, so they only have my graditude and I have no intention of competing with them (don't think I could even if I tried to be honest). However, didn't stop me from trying to make my own custom board that fulfills my own specification and allows me to tailor it to my needs. All in all, thanks Rowan :D
 
