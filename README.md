@@ -14,7 +14,7 @@ This was a massive headache, clunky and inefficient (But I got the A* i needed h
 
 In March 2020 the covid-19 pandemic i suddenly found I had plenty of time to think of a better solution, which was when I started to research about hobbiest electronics and microcontrollers such as the arduino. They offered a more efficient/code logic rather than using logic gates to encode data. Also, having a microcontroller allowed for more data to be gathered, which was the moment I realised much, much more could be achieved. Since then I have been developing sensor data based circuits that can monitor a greenpower cars 'vital systems'. In July 2020 I was no longer a member of BGS Greenpower (Bristol Grammar School) and I joined a close friend's team called Coalescence.GP which included his first car Icarus. With a new team and direction I set about making the next car monitoring system.
 
-![](Photos/T2W%20Stupid.PNG)
+![](Photos/T2W.PNG)
 
 The first version of this was called T2W (The Thrust Weapon, don't ask why) and while it was rigged with glitches and poor design ethos it did the job and in september of 2020 gave us some valuable current vs time data, saved to an SD card, which is arguably the most important data you can collect. There was capability to gather voltage, Temperature, and RPM, but a lack of a solid testing environment due to COVID meant it was the first time the board was being used in that environment. But still I was determined to get a better understanding of the potential microcontrollers offered.
 
