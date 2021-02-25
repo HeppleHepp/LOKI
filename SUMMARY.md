@@ -1,13 +1,6 @@
 # Table of contents
 
-* [Coalescence GP: LOKI Controller](README.md)
-
-## CODE
-
-* [Software](code/untitled-1/README.md)
-  * [IDE Layout](code/untitled-1/ide-layout.md)
-
-## Loki Board
-
-* [Getting Started](loki-board/getting-started.md)
+* [Coalescence GP's LOKI Controller](README.md)
+* [The Code](untitled.md)
+* [IDE Layout](ide-layout.md)
 
