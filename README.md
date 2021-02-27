@@ -10,7 +10,7 @@ In this repository you will find incremental developement to find the best solut
 
 Back in 2019 I had started my A-level in Design Technology and wanted to create a product that would allow better team communication, this eventually transpired to making a battery status monitor that beamed an 433MHz signal to the pitlane during the races. The voltage was found using a potential divider on a raspberry Pi and the string was encoded into a Hex signal which then used precise timers to create the packets needed to allow AM carrier transmition.
 
-![](https://github.com/HeppleHepp/LOKI/tree/03ba99184b8404c65cd6873f1766386c2e0185f7/Photos/OG%20Receiver.PNG)
+![](main/Photos/OG%20Receiver.PNG)
 
 This was a massive headache, clunky and inefficient \(But I got the A\* i needed hehe\).
 
@@ -20,7 +20,7 @@ In March 2020, during the covid-19 pandemic, I suddenly found that I had plenty 
 
 The first version of this was called T2W \(The Thrust Weapon, don't ask why\) and while it was rigged with glitches and poor design ethos it did the job and in september of 2020 gave us some valuable current vs time data, saved to an SD card, which is arguably the most important data you can collect. There was capability to gather voltage, Temperature, and RPM, but a lack of a solid testing environment due to COVID meant it was the first time the board was being used in that environment. But still I was determined to get a better understanding of the potential microcontrollers offered.
 
-![](https://github.com/HeppleHepp/LOKI/tree/03ba99184b8404c65cd6873f1766386c2e0185f7/Photos/CastleCombe%20T2W.PNG)
+![](main/Photos/CastleCombe%20T2W.PNG)
 
 Loki is my latest developent of this journey, and is the design I hope to iterate on over at least the next 2 years. I will be developing it in parallel with my course at university and will deploy updates and provide active support to anyone who wishes to use the board.
 
